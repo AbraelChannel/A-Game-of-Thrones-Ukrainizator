@@ -49,7 +49,7 @@
  SCHEME_DRAGON_BONDED_BASE:0 "Bonded Dragon Base: #V $VALUE|0=$#!"
  SCHEME_DRAGON_UNBONDED_BASE:0 "Unbonded Dragon Base: #V $VALUE|0=$#!"
  SCHEME_BOND_DRAGON_THEIR_OPINION:0 "[target.GetTitledFirstNamePossessive] думка про вас: $VALUE|+0=-+$"
- SCHEME_BOND_BOTH_TRAIT:0 "У вас схожий характер: $VALUE|+0=-+$"
+ SCHEME_BOND_BOTH_TRAIT:0 "Схожий характер: $VALUE|+0=-+$"
  SCHEME_BOND_OWNER_DILIGENT:0 "Ви [GetTrait('diligent').GetName(GetNullCharacter)]: $VALUE|+0=-+$"
  SCHEME_BOND_OWNER_LAZY:0 "Ви [GetTrait('lazy').GetName(GetNullCharacter)]: $VALUE|+0=-+$"
  DRAGON_AGE:0 "[target.GetTitledFirstNamePossessive] вік: #N -[target.GetAge]#!"
@@ -60,7 +60,7 @@
  SCHEME_BOND_DRAGON_TAMING_CHANCE:0 "[target.GetFirstNamePossessive] [taming_chance|E]: $VALUE|+0=-+$"
  BOND_DRAGON_SUCCESS_DESC:0 "Ви будете пов'язані з цим [dragon|E]"
  DEEPEN_BOND_DRAGON_SUCCESS_DESC:0 "Ви можете #P збільшити#! досвід вашого [GetTrait('dragonrider').GetName(GetNullCharacter)] зв'язку"
- SCHEME_BOND_VALYRIAN_BLOOD:0 "У вас є Драконяча кров: $VALUE|+0=-+$"
+ SCHEME_BOND_VALYRIAN_BLOOD:0 "Драконяча кров: $VALUE|+0=-+$"
  SCHEME_BOND_DYNASTY_LEGACY:0 "[GetDynastyPerk( 'dragonrider_dynasty_legacy_2' ).GetName]: $VALUE|+0=-+$"
  SCHEME_EX_DRAGONRIDER:0 "Ви вже зв'язалися з одним [dragon|E]: $VALUE|+0=-+$"
  bonded_with_me:0 "Пов'язані зі мною"
@@ -101,8 +101,8 @@
  agot_dragon.imprisoned_on_terror_campaign.desc:0 "[ROOT.Char.GetFirstName] був ув'язнений, і більше не буде палити землі ваших ворогів."
  
  # Teach dragon lore
- agot_teach_dragonlore:0 "Вчити Драконознавство"
- agot_teach_dragonlore_desc:0 "За допомогою вашого [GetCourtPositionType('head_dragonkeeper_court_position').GetName()], ви навчите [recipient.GetName] драконознавство, необхідне для приборкання дракона"
+ agot_teach_dragonlore:0 "Навчити Драконознавству"
+ agot_teach_dragonlore_desc:0 "За допомогою вашого [GetCourtPositionType('head_dragonkeeper_court_position').GetName()], ви навчите [recipient.GetName] драконознавству, яке необхідне для приборкання дракона"
  scheme_taught_dragonlore:0 "Викладати Драконознавство: $VALUE|+0=-+$"
  scheme_dragonkeeper:0 "Головний хранитель драконів: $VALUE|+0=-+$"
  scheme_pitted_dragon:0 "Залучено до [dragonpit|e]: $VALUE|+0=-+$"

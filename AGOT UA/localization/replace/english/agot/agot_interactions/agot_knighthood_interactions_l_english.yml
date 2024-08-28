@@ -171,8 +171,8 @@ SQUIREHOOD_I_AM_OLD_ENOUGH_TO_BE_A_KNIGHT:0 "Пропонований зброє
 
 SQUIREHOOD_SQUIRE_CANDIDATE_IS_NOT_RIGHT_IN_THE_HEAD:0 "Пропонований зброєносець несповна розуму: $VALUE|=+0$"
 
-KNIGHTING_AI_GUARDIAN_SKILL_MARTIAL:0 "Лицарський [martial|E] Навик: $VALUE|=+0$"
-KNIGHTING_AI_GUARDIAN_SKILL_PROWESS:0 "Лицарський [prowess|E] Навик: $VALUE|=+0$"
+KNIGHTING_AI_GUARDIAN_SKILL_MARTIAL:0 "[martial|E] лицаря: $VALUE|=+0$"
+KNIGHTING_AI_GUARDIAN_SKILL_PROWESS:0 "[prowess|E] лицаря: $VALUE|=+0$"
 
 educate_squire_interaction_notification:0 "Навчити зброєносця"
 

@@ -1,7 +1,7 @@
 ﻿l_english:
  #send to citadel interaction
- agot_send_to_citadel_interaction:0 "Відправити до Цитадель"
- agot_send_to_citadel_interaction_desc:0 "Відправити [recipient.GetFirstNameNoTooltip] до цитадель"
+ agot_send_to_citadel_interaction:0 "Відправити до Цитаделі"
+ agot_send_to_citadel_interaction_desc:0 "Відправити [recipient.GetFirstNameNoTooltip] до цитаделі"
  agot_send_to_citadel_interaction_extra_icon:0 "$hook_extra_icon$"
  agot_send_to_citadel_effect_desc:0 "#weak [CHARACTER.GetShortUINAME] покине ваш двір, щоб навчатися в Цитаделі. Після складання обітниці він відкладе своє ім'я дому і відмовиться від усієї спадщини, щоб служити королівству.#!"
  citadel_decline_summary:0 "Якщо [recipient.GetShortUINameNoTooltip] відмовиться, він залишиться у вашому [court|E]"
