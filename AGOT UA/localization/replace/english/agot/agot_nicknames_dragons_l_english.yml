@@ -24,86 +24,86 @@
  # White
  nick_dragon_the_white_dread:0 "Білий жах"
  nick_dragon_the_cloud:0 "Хмара"
- nick_dragon_the_cloud_wyrm:0 "the Cloudwyrm"
- nick_dragon_the_milk_wyrm:0 "the Milkwyrm"
- nick_dragon_the_ghost_flame:0 "the Ghost Flame"
- nick_dragon_the_ivory_terror:0 "the Ivory Terror"
- nick_dragon_the_frost_drake:0 "the Frost Drake"
+ nick_dragon_the_cloud_wyrm:0 "Хмарний Змій"
+ nick_dragon_the_milk_wyrm:0 "Молочний Змій"
+ nick_dragon_the_ghost_flame:0 "Примарне полум'я"
+ nick_dragon_the_ivory_terror:0 "Кістяний жах"
+ nick_dragon_the_frost_drake:0 "Морозний "
 
  # Blue
- nick_dragon_the_blue_queen:0 "the Blue Queen"
- nick_dragon_the_azure_flame:0 "the Azure Flame"
- nick_dragon_the_sky_serpent:0 "the Sky Serpent"
- nick_dragon_the_sapphire_flame:0 "the Sapphire Flame"
+ nick_dragon_the_blue_queen:0 "Синя Королева"
+ nick_dragon_the_azure_flame:0 "Блакитне полум'я"
+ nick_dragon_the_sky_serpent:0 "Небесний Змій"
+ nick_dragon_the_sapphire_flame:0 "Сапфірне полум'я"
 
  # Orange
- nick_dragon_the_bronze_fury:0 "the Bronze Fury"
- nick_dragon_the_ember_maw:0 "the Ember Maw"
- nick_dragon_the_firestorm:0 "the Firestorm"
- nick_dragon_the_amber_terror:0 "the Amber Terror"
+ nick_dragon_the_bronze_fury:0 "Бронзова лють"
+ nick_dragon_the_ember_maw:0 "Жарка паща"
+ nick_dragon_the_firestorm:0 "Вогняний шторм"
+ nick_dragon_the_amber_terror:0 "Янтарний жах"
 
  # Yellow
- nick_dragon_the_golden:0 "the Golden"
- nick_dragon_the_golden_blaze:0 "the Golden Blaze"
- nick_dragon_the_suns_wrath:0 "the Sun's Wrath"
- nick_dragon_the_dancing_sun:0 "the Dancing Sun"
+ nick_dragon_the_golden:0 "Золотий"
+ nick_dragon_the_golden_blaze:0 "Золотий спалах"
+ nick_dragon_the_suns_wrath:0 "Сонячна лють"
+ nick_dragon_the_dancing_sun:0 "Танцююче сонце"
 
  # Red
- nick_dragon_the_red_queen:0 "the Red Queen"
- nick_dragon_the_blood_wyrm:0 "the Blood Wyrm"
- nick_dragon_the_inferno:0 "the Inferno"
- nick_dragon_the_blood_reaver:0 "the Blood Reaver"
- nick_dragon_the_ember:0 "the Ember"
- nick_dragon_the_crimson_comet:0 "the Crimson Comet"
+ nick_dragon_the_red_queen:0 "Червона Королева"
+ nick_dragon_the_blood_wyrm:0 "Кривавий змій"
+ nick_dragon_the_inferno:0 "Інферно"
+ nick_dragon_the_blood_reaver:0 "Кровопивця"
+ nick_dragon_the_ember:0 "Жар"
+ nick_dragon_the_crimson_comet:0 "Кривава комета"
 
  # Green
- nick_dragon_the_jade_menace:0 "the Jade Menace"
- nick_dragon_the_mossy_mountain:0 "the Mossy Mountain"
+ nick_dragon_the_jade_menace:0 "Нефритова загроза"
+ nick_dragon_the_mossy_mountain:0 "Мохова гора"
 
  # Purple
- nick_dragon_the_amethyst:0 "the Amethyst"
- nick_dragon_the_violet_flame:0 "the Violet Flame"
- nick_dragon_the_violet_violence:0 "the Violet Violence"
+ nick_dragon_the_amethyst:0 "Аметист"
+ nick_dragon_the_violet_flame:0 "Фіолетове полум'я"
+ nick_dragon_the_violet_violence:0 "Фіолетове насилля"
 
  # Pink
- nick_dragon_the_rose_fury:0 "the Rose Fury"
- nick_dragon_the_blossom_blaze:0 "the Blossom Blaze"
+ nick_dragon_the_rose_fury:0 "Трояндова лють"
+ nick_dragon_the_blossom_blaze:0 "Квітучий спалах"
 
  # Fuschia
- nick_dragon_the_sunrise:0 "the Sunrise"
+ nick_dragon_the_sunrise:0 "Схід сонця"
 
  # Dynamic Colors
- nick_dragon_the_color_king:0 "the [CHARACTER.Custom('GetDragonColor')|U] King"
- nick_dragon_the_color_queen:0 "the [CHARACTER.Custom('GetDragonColor')|U] Queen"
- nick_dragon_the_color_dread:0 "the [CHARACTER.Custom('GetDragonColor')|U] Dread"
- nick_dragon_the_color_grading_dread:0 "the [CHARACTER.Custom('GetDragonColorGrade')|U] Dread"
- nick_dragon_the_color_fury:0 "the [CHARACTER.Custom('GetDragonColor')|U] Fury"
- nick_dragon_the_color_grading_fury:0 "the [CHARACTER.Custom('GetDragonColorGrade')|U] Fury"
- nick_dragon_the_color_flame:0 "the [CHARACTER.Custom('GetDragonColor')|U] Flame"
- nick_dragon_the_color_grading_flame:0 "the [CHARACTER.Custom('GetDragonColorGrade')|U] Flame"
+ nick_dragon_the_color_king:0 "[CHARACTER.Custom('GetDragonColor')|U] Король"
+ nick_dragon_the_color_queen:0 "[CHARACTER.Custom('GetDragonColor')|U] Королева"
+ nick_dragon_the_color_dread:0 "[CHARACTER.Custom('GetDragonColor')|U] Жах"
+ nick_dragon_the_color_grading_dread:0 "[CHARACTER.Custom('GetDragonColorGrade')|U] Жах"
+ nick_dragon_the_color_fury:0 "[CHARACTER.Custom('GetDragonColor')|U] Лють"
+ nick_dragon_the_color_grading_fury:0 "[CHARACTER.Custom('GetDragonColorGrade')|U] Лють"
+ nick_dragon_the_color_flame:0 "[CHARACTER.Custom('GetDragonColor')|U] Полум'я"
+ nick_dragon_the_color_grading_flame:0 "[CHARACTER.Custom('GetDragonColorGrade')|U] Полум'я"
 
 
  #########################
  # PERSONALITY NICKNAMES #
  #########################
 
- nick_dragon_the_radiant:0 "the Radiant"
- nick_dragon_the_skysplitter:0 "the Skysplitter"
- nick_dragon_the_streak:0 "the Streak"
- nick_dragon_the_terrible:0 "the Terrible"
- nick_dragon_the_great_and_terrible:0 "the Great and Terrible"
- nick_dragon_the_bringer_of_the_end:0 "the Bringer of the End"
- nick_dragon_the_sorrowful:0 "the Sorrowful"
- nick_dragon_the_pitiful:0 "the Pitiful"
- nick_dragon_the_devourer:0 "the Devourer"
- nick_dragon_the_song_seeker:0 "the Songseeker" # Likes singing / music
- nick_dragon_the_dreadful:0 "the Dreadful"
- nick_dragon_the_ancient:0 "the Ancient"
+ nick_dragon_the_radiant:0 "Променистий"
+ nick_dragon_the_skysplitter:0 "Розщеплювач небес"
+ nick_dragon_the_streak:0 "Смуга"
+ nick_dragon_the_terrible:0 "Кошмарний"
+ nick_dragon_the_great_and_terrible:0 "Великий і жахливий"
+ nick_dragon_the_bringer_of_the_end:0 "Вісник кінця"
+ nick_dragon_the_sorrowful:0 "Скорботний"
+ nick_dragon_the_pitiful:0 "Жалюгідний"
+ nick_dragon_the_devourer:0 "Пожирач"
+ nick_dragon_the_song_seeker:0 "Шукач пісень" # Likes singing / music
+ nick_dragon_the_dreadful:0 "Жахливий"
+ nick_dragon_the_ancient:0 "Древній"
 
  #####################
  # SPECIAL NICKNAMES #
  #####################
- nick_the_sea_dragon:0 "the Sea Dragon"
+ nick_the_sea_dragon:0 "Морський дракон"
 
 ###############
 # Easter Eggs #
