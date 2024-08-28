@@ -4,26 +4,26 @@
  ###################
 
  # Black
- nick_dragon_the_black_dread:0 "the Black Dread"
- nick_dragon_the_shadow:0 "the Shadow"
- nick_dragon_the_shade:0 "the Shade"
- nick_dragon_the_dark_wyrm:0 "the Darkwyrm"
- nick_dragon_the_night_terror:0 "the Night Terror"
- nick_dragon_the_nights_flame:0 "the Night's Flame"
- nick_dragon_nightfyre:0 "Nightfyre"
- nick_dragon_the_black_flame:0 "the Black Flame"
- nick_dragon_the_eclipse:0 "the Eclipse"
+ nick_dragon_the_black_dread:0 "Чорний жах"
+ nick_dragon_the_shadow:0 "Темінь"
+ nick_dragon_the_shade:0 "Тінь"
+ nick_dragon_the_dark_wyrm:0 "Темний Змій"
+ nick_dragon_the_night_terror:0 "Нічний жах"
+ nick_dragon_the_nights_flame:0 "Нічне полум'я"
+ nick_dragon_nightfyre:0 "Нічний вогонь"
+ nick_dragon_the_black_flame:0 "Темне полум'я"
+ nick_dragon_the_eclipse:0 "Затемнення"
 
  # Grey
- nick_dragon_the_phantom:0 "the Phantom"
- nick_dragon_the_ashen:0 "the Ashen"
- nick_dragon_the_silver_storm:0 "the Silver Storm"
- nick_dragon_the_iron_shadow:0 "the Iron Shadow"
- nick_dragon_the_iron_menace:0 "the Iron Menace"
+ nick_dragon_the_phantom:0 "Фантом"
+ nick_dragon_the_ashen:0 "Попелище"
+ nick_dragon_the_silver_storm:0 "Срібний шторм"
+ nick_dragon_the_iron_shadow:0 "Залізна тінь"
+ nick_dragon_the_iron_menace:0 "Залізна загроза"
 
  # White
- nick_dragon_the_white_dread:0 "the White Dread"
- nick_dragon_the_cloud:0 "the Cloud"
+ nick_dragon_the_white_dread:0 "Білий жах"
+ nick_dragon_the_cloud:0 "Хмара"
  nick_dragon_the_cloud_wyrm:0 "the Cloudwyrm"
  nick_dragon_the_milk_wyrm:0 "the Milkwyrm"
  nick_dragon_the_ghost_flame:0 "the Ghost Flame"
