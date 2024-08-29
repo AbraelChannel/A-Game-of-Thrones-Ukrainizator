@@ -89,7 +89,7 @@
  trait_nw_ranger_1_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] все ще вивчає [ROOT.GetCharacter.GetHerHis] роль в ордені розвідників Нічної Варти."
  trait_nw_ranger_2:0 "Розвідник-мандрівник"
  trait_nw_ranger_2_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] славиться [ROOT.GetCharacter.GetHerHis] навичками і є досвідченим членом ордену розвідників Нічної Варти."
- trait_nw_ranger_3:0 "Майстер-розвілник"
+ trait_nw_ranger_3:0 "Майстер-розвідник"
  trait_nw_ranger_3_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] - майстер вистежування здичавілих і добре відомий своїми легендарними подвигами [ROOT.GetCharacter.GetHerHis] далеко за межами Стіни."
 
  trait_nw_steward:0 "Стюард"
