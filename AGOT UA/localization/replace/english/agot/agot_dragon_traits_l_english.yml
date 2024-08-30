@@ -9,11 +9,11 @@
  trait_dragon_character_desc:  "Ніхто не може заперечити, що [ROOT.Char.GetNameNoTooltip] є одними з найвражаючих видів у світі, незалежно від того, чи були вони створені за допомогою магії крові, спаленої плоті, шматка місяця чи божественного тіла на землі, [dragon|El] старої Валірії."
 
  #Dragonrider
- trait_dragonrider: "Вершник Дракона"
- trait_dragonrider_desc: "Вершники Драконів — це ті кілька чоловіків і жінок, які пов’язалися з драконами, володіючи цією страшною силою для власних цілей."
+ trait_dragonrider: "Драконячий Вершник"
+ trait_dragonrider_desc: "Драконячі Вершники — це ті кілька чоловіків і жінок, які пов’язалися з драконами, володіючи цією страшною силою для власних цілей."
  trait_dragonrider_character_desc: "Приручивши та пов'язавшись з драконом по імені '[ROOT.Var('current_dragon').Char.GetName]'ом, [ROOT.GetCharacter.GetFirstNameNoTooltip] тепер може їздити верхи на [Select_CString(EqualTo_string('він', ROOT.Var('current_dragon').Char.Custom('GetDragonSheHe')), 'ньому', 'ній')]."
  trait_dragonbinder_desc: "Пов'язавшись з драконом по імені '[ROOT.Var('current_dragon').Char.GetNameNicknamed]' магією крові Старої Валірії, [ROOT.GetCharacter.GetFirstNameNoTooltip] тепер може їздити верхи на [Select_CString(EqualTo_string('він', ROOT.Var('current_dragon').Char.Custom('GetDragonSheHe')), 'ньому', 'ній')]."
- trait_dragon_name_dragon_alive: "Вершник [ROOT.Var('current_dragon').Char.GetNamePossessive|U]"
+ trait_dragon_name_dragon_alive: "Вершник [ROOT.Var('current_dragon').Char.GetNamePossessive|U]а"
  trait_track_dragon_training: "Дресирування Дракона"
  trait_track_dragon_training_desc: "Час, проведений разом на тренуваннях або в бою, покращує навички та швидкість, з якою вершник може використовувати могутню силу свого дракона.\n\nКожний рівень навчання додає [dragon_combat_effectiveness|E]: @dragon_combat_effectiveness_icon! #P +10%#!, максимум до #P +30%#!."
  trait_track_dragon_bond: "Зв'язок з Драконом"
