@@ -1,10 +1,10 @@
 ﻿l_english:
- activity_MISSING:0 "#true_white #underline Whereabouts Unknown#!"
- activity_PROPER:0 "Attending [ACTIVITY.GetName|V] in [PROVINCE.GetName|V]"
- CHARACTER_IN_LOCATION_MISSING:0 "#underline This Character's Location Can Not Be Determined.#!"
- CHARACTER_IN_LOCATION_PROPER:0 "#underline Located in [Character.GetCurrentLocation.GetName|V]#!"
+ activity_MISSING:0 "#true_white #underline Місцезнаходження невідоме#!"
+ activity_PROPER:0 "Бере участь у занятті «[ACTIVITY.GetName|V]» у володінні [PROVINCE.GetName|V]"
+ CHARACTER_IN_LOCATION_MISSING:0 "#underline Місцезнаходження цього персонажа не може бути встановлене.#!"
+ CHARACTER_IN_LOCATION_PROPER:0 "#underline Знаходиться в [Character.GetCurrentLocation.GetName|V]#!"
 
- NO_PATRON:0 "No Patron Selected"
+ NO_PATRON:0 "Покровитель не обраний"
 
- agot_character_performing_councillor_task: "while performing a task"
- agot_character_traveling: "while traveling"
+ agot_character_performing_councillor_task: "у процесі виконання доручення"
+ agot_character_traveling: "під час подорожі"

@@ -1,5 +1,5 @@
 ﻿l_english:
- GAME_OVER_CANNOT_PLAY_RUINS:0 "Cannot play [ruins|E]."
+ GAME_OVER_CANNOT_PLAY_RUINS:0 "Не можна грати за [ruins|E]."
  NOT_GAME_OVER_CANNOT_PLAY_RUINS:0 "$GAME_OVER_CANNOT_PLAY_RUINS$"
- GAME_OVER_CANNOT_PLAY_NW_VASSAL:0 "Cannot play a vassal of the Night's Watch."
+ GAME_OVER_CANNOT_PLAY_NW_VASSAL:0 "Не можна грати за васала Нічного Дозору."
  NOT_GAME_OVER_CANNOT_PLAY_NW_VASSAL:0 "$GAME_OVER_CANNOT_PLAY_NW_VASSAL$"
