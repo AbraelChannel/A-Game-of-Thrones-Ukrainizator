@@ -14,16 +14,16 @@
 
  agot_dragon_dreams.0001.child_new_dreamer:0 "\n\nСхоже, що [dragon_dreamer.GetFirstNameNoTooltip] — драконячий сновидець. Моє серце болить за дитину, це буде важкий тягар, який доведеться нести в наступні роки..."
  agot_dragon_dreams.0001.self_new_dreamer:0 "\n\nСхоже, що я драконячий сновидець. Пам'ятаючи давніх драконячих сновидців, я сподіваюся, що ці мрії виявляться більш корисними, ніж обтяжливими..."
- agot_dragon_dreams.0001.relative_new_dreamer:0 "\n\nСхоже, що [dragon_dreamer.GetFirstNameNoTooltip] — драконячий сновидець. For [dragon_dreamer.GetHerHis] sake, I hope it proves to be more blessing than curse..."
- agot_dragon_dreams.0001.known_dreamer:0 "\n\nAs grateful as I am for the information, I hope the dreams that haunt [dragon_dreamer.GetFirstNameNoTooltip] aren't affecting [dragon_dreamer.GetHerHim] too severely..."
- agot_dragon_dreams.0001.known_dreamer_self:0 "\n\nUntil I am able to stop this plot, these dreams will surely haunt me..."
+ agot_dragon_dreams.0001.relative_new_dreamer:0 "\n\nСхоже, що [dragon_dreamer.GetFirstNameNoTooltip] — драконячий сновидець. Заради [dragon_dreamer.GetHerHis] я сподіваюся, що це виявиться більше благословенням, ніж прокляттям..."
+ agot_dragon_dreams.0001.known_dreamer:0 "\n\nЯ дуже ціную цю інформацію, але сподіваюся, що сни, які переслідують [dragon_dreamer.GetFirstNameNoTooltip] не впливають на [dragon_dreamer.GetHerHim] надто жорстоко..."
+ agot_dragon_dreams.0001.known_dreamer_self:0 "\n\nПоки я не зможу зупинити цю змову, ці сни неодмінно переслідуватимуть мене..."
 
- agot_dragon_dreams.0001.a:0 "We must stop the villain behind this!"
+ agot_dragon_dreams.0001.a:0 "Ми повинні зупинити лиходія, який стоїть за цим!"
 
 
- agot_dragon_dreams.0100.t:0 "Trouble Foreseen"
- agot_dragon_dreams.0100.desc.1:0 "I awoke in the middle of the night "
- agot_dragon_dreams.0100.desc.root_is_dreamer:0 "in sweat and fear. I had a dream of my impending doom! I cannot be too sure of what happens, but I know enough to prevent it from happening now."
- agot_dragon_dreams.0100.desc.other_dreamer:0 "to the sounds of urgent footsteps. A servent tells me a letter from [ROOT.Var('dreamer').Char.GetName] has arrived, with instructions to open it immediately. Nervously, I open up the letter to see that [ROOT.Var('dreamer').Char.GetSheHe] have forseen my impending doom! [ROOT.Var('dreamer').Char.GetSheHe|U] says that [ROOT.Var('dreamer').Char.GetSheHe] cannot be too sure of what happens, but [ROOT.Var('dreamer').Char.GetSheHe] details enough for me to prevent it from happening."
- agot_dragon_dreams.0100.desc.fallback:0 "My impending doom has been forseen."
- agot_dragon_dreams.0100.a:0 "Close one!"
+ agot_dragon_dreams.0100.t:0 "Передбачена неприємність"
+ agot_dragon_dreams.0100.desc.1:0 "Я прокинувся посеред ночі "
+ agot_dragon_dreams.0100.desc.root_is_dreamer:0 "в поті і страху. Мені приснився сон про мою неминучу загибель! Я не можу бути надто впевненим у тому, що станеться, але я знаю достатньо, щоб запобігти цьому зараз."
+ agot_dragon_dreams.0100.desc.other_dreamer:0 "під звуки поспішних кроків. Слуга каже мені, що лист від [ROOT.Var('dreamer').Char.GetName] надійшов з інструкцією негайно відкрити його. Нервуючи, я відкриваю лист і бачу, що [ROOT.Var('dreamer').Char.GetSheHe] передбачили мою неминучу загибель! [ROOT.Var('dreamer').Char.GetSheHe|U] пише, що [ROOT.Var('dreamer').Char.GetSheHe] невпевнені що станеться напевне, але [ROOT.Var('dreamer').Char.GetSheHe] деталей достатньо щоб запобігти цьому."
+ agot_dragon_dreams.0100.desc.fallback:0 "Моя неминуча загибель була передбачена."
+ agot_dragon_dreams.0100.a:0 "Близько!"
