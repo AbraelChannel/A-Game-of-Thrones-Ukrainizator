@@ -145,3 +145,7 @@
 
  agot_retrieve_egg_from_pit:0 "Отримати яйце з драконячої ями"
  agot_retrieve_egg_from_pit_desc:0 "Дістати яйце, що зберігається в одній з ваших [dragonpits|e]"
+
+ rename_dragon_interaction:0 "Перейменувати Дракона"
+ rename_dragon_interaction_desc:0 "Перейменувати [recipient.GetName]"
+ renaming_dragon_you_are_house_head_tt:0 "Принаймні в одного з них:\n$EFFECT_LIST_BULLET$Ви є супутником дракона\n$EFFECT_LIST_BULLET$Ви глава дому супутника або вершника цього дракона"
