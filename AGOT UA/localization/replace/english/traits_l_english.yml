@@ -71,7 +71,7 @@
  #AGOT Modified
  #trait_education_stewardship_4:0 "Зворушений Мідасом"
  #trait_education_stewardship_4_desc:0 "The Midas Touched is followed by success after success in the art of stewardship, displaying an indisputable mastery of the art."
- trait_education_stewardship_4:0 "Квітучий сінешалб"
+ trait_education_stewardship_4:0 "Квітучий сінешаль"
  trait_education_stewardship_4_desc:0 "The Prosperous Seneschal is followed by success after success in the art of stewardship, displaying an indisputable mastery of the art."
  trait_education_stewardship_4_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is followed by success after success in the art of stewardship, displaying an indisputable mastery of the art."
  trait_education_stewardship_5: "Золотий володар"
