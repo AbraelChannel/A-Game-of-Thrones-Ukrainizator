@@ -159,7 +159,7 @@
  #trait_education_learning_5: "Всезнаючий оракул"
  #trait_education_learning_5_desc: "The Erudite Oracle's knowledge of the divine and the mundane is unparalleled, their counsel sought by the great and the good of scholarly circles."
  #trait_education_learning_5_character_desc: "[ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip] knowledge of the divine and the mundane is unparalleled, their counsel sought by the great and the good of scholarly circles."
- trait_education_learning_5: "Всезнаючий школяр"
+ trait_education_learning_5: "Всезнаючий вчений"
  trait_education_learning_5_desc: "The Erudite Scholar's knowledge of the higher mysteries and the mundane is unparalleled, their counsel sought by the great and the good of scholarly circles."
  trait_education_learning_5_character_desc: "[ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip] knowledge of the higher mysteries and the mundane is unparalleled, their counsel sought by the great and the good of scholarly circles."
 
