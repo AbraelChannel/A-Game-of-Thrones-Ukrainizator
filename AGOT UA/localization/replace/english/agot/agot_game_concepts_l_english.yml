@@ -97,10 +97,10 @@
 
  game_concept_tamed_dragon:0 "Приборканий дракон"
  game_concept_tamed_dragons:0 "Приборкані дракони"
- game_concept_tamed_dragon_desc:0 "$game_concept_tamed_dragons$ - це дракони, яких приручив якийсь [GetTrait('dragonrider').GetName(GetNullCharacter)|l]. Якщо їх наїзник є [Concept('ruler', 'правителем')|E], вони залишаються у його столиці, інакше - у столиці приймаючої сторони наїзника. Це відбувається тільки якщо вони не прикріплені до [Concept('army', 'армії')|E] або не використовуються для [Concept('travel', 'подорожей')|E].\n\nВони є одним із трьох типів [Concept('dragon', 'драконів')|E]. Два інших - це [Concept('wild_dragons', 'дикі')|E] і [Concept('owned_dragon', 'одомашнені')|E] дракони. Приборкані дракони, що не містяться в [Concept('dragonpit', 'драконячій ямі')|E], стають дикими після смерті вершника."
+ game_concept_tamed_dragon_desc:0 "$game_concept_tamed_dragons$ - це дракони, яких приручив якийсь [GetTrait('dragonrider').GetName(GetNullCharacter)|l]. Якщо їх наїзник є [Concept('ruler', 'правителем')|E], вони залишаються у його столиці, інакше - у столиці приймаючої сторони наїзника. Це відбувається тільки якщо вони не прикріплені до [Concept('army', 'армії')|E] або не використовуються для [Concept('travel', 'подорожей')|E].\n\nВони є одним із трьох типів [Concept('dragon', 'драконів')|E]. Два інших - це [Concept('wild_dragons', 'дикі')|E] і [Concept('owned_dragon', 'одомашнені')|E] дракони. Приборкані дракони, що не знаходяться в [Concept('dragonpit', 'драконячій ямі')|E], стають дикими після смерті вершника."
 
  game_concept_draconic_dread:0 "Драконячий жах"
- game_concept_draconic_dread_desc:0 "$game_concept_draconic_dread$ - це [dread|El], який вселяє [dragon|El], а не його власник. Він є внутрішнім страхом, який ця істота вселяє в серця людей. Значною мірою відображая [dragons_size|El], він може залежати від його [Concept('personality', 'особистості')|E] і вчинків."
+ game_concept_draconic_dread_desc:0 "$game_concept_draconic_dread$ - це [dread|El], який вселяє [dragon|El], а не його власник. Він є внутрішнім страхом, який ця істота вселяє в серця людей. Значною мірою відображаючи [dragons_size|El], він може залежати від його [Concept('personality', 'особистості')|E] і вчинків."
 
  game_concept_temperament:0 "Темперамент"
  game_concept_temperament_desc:0 "$game_concept_temperament$ - це загальна вдача і ставлення, яке виявляє [dragon|El]. Позитивне значення вказує на більш доброзичливого дракона, тоді як дракон з негативним темпераментом - більш дикий і норовливий звір. На темперамент дракона впливають його [education|El], [personality|El] та досвід."
@@ -110,7 +110,7 @@
 
  game_concept_dragon_size:0 "Розмір дракона"
  game_concept_dragons_size:0 "Розмір дракона"
- game_concept_dragon_size_desc:0 "$game_concept_dragon_size$ - це фізичний розмір [Concept('dragon', 'дракона')|E]. Він є сукупністю довжини, розмаху крил і ваги дракона. Розмір дракона сильно впливає на його [Concept('dragon_combat_effectiveness', 'бойову ефективність')|E], а також його [draconic_dread|El] і [taming_chance|El].\n\nДракон ніколи не перестане рости, але з віком темпи зростання уповільнюються. Дракони, що містяться в штучних [Concept('dragonpit', 'драконячих ямах')|E], будуть зростати повільніше, ніж ті, що ростуть на волі або в [Concept('natural_dragonpit', 'природних драконячих лігвах')|E] ."
+ game_concept_dragon_size_desc:0 "$game_concept_dragon_size$ - це фізичний розмір [Concept('dragon', 'дракона')|E]. Він є сукупністю довжини, розмаху крил і ваги дракона. Розмір дракона сильно впливає на його [Concept('dragon_combat_effectiveness', 'бойову ефективність')|E], а також його [draconic_dread|El] і [taming_chance|El].\n\nДракон ніколи не перестане рости, але з віком темпи зростання уповільнюються. Дракони, що знаходяться в штучних [Concept('dragonpit', 'драконячих ямах')|E], будуть зростати повільніше, ніж ті, що ростуть на волі або в [Concept('natural_dragonpit', 'природних драконячих лігвах')|E] ."
 
  game_concept_dragon_combat_effectiveness:0 "Бойова ефективність"
  game_concept_dragon_combat_effectiveness_desc:0 "$game_concept_dragon_combat_effectiveness$ - це показник того, наскільки ефективний [dragon|El] у бою. На нього в основному впливає [dragons_size|El], але також можуть впливати [traits|El] та досвід, яким володіє його [GetTrait('dragonrider').GetName(GetNullCharacter)|l]. Дракон з високою бойовою ефективністю буде більш ефективним у бою."
@@ -122,7 +122,7 @@
  game_concept_dragon_pit_desc:0 "$game_concept_dragonpit_desc$"
  game_concept_natural_dragonpit:0 "Природне драконяче лігво"
  game_concept_natural_dragonpits:0 "Природні драконячі лігва"
- game_concept_natural_dragonpit_desc:0 "$game_concept_natural_dragonpit$ - це [dragonpit|El], у якому орден [Concept('dragonkeepers', 'Драконоблюстителей')|E] використовує природні печери для утримання та захисту [Concept('dragons', 'драконів')|E]. [Concept('dragons_size', 'Розмір')|E] драконів, що містяться в таких лігвах, не буде піддаватися обмеженням, на відміну від тих, що містяться в штучних драконячих ямах."
+ game_concept_natural_dragonpit_desc:0 "$game_concept_natural_dragonpit$ - це [dragonpit|El], у якому орден [Concept('dragonkeepers', 'Драконоблюстителей')|E] використовує природні печери для утримання та захисту [Concept('dragons', 'драконів')|E]. [Concept('dragons_size', 'Розмір')|E] драконів, що знаходяться в таких лігвах, не буде піддаватися обмеженням, на відміну від тих, що знаходяться в штучних драконячих ямах."
 
  game_concept_anti_dragon_maa:0 "Винищувачі драконів"
  game_concept_anti_dragon_maa_desc:0 "Особливі [Concept('men_at_arms', 'професіонали')|E], призначені для боротьби з [Concept('dragons', 'драконами')|E]. Ці полки не принесуть особливої ​​користі, якщо використовуються не за прямим призначенням, але мало хто може сподіватися захистити [Concept('army', 'військо')|E], що зіткнулося з драконом."
