@@ -1,7 +1,7 @@
 ﻿l_english:
  # Prestige
- TRAIT_FLAG_DESC_add_rider_monthly_prestige_1:0 "Rider [prestige|E]: @prestige_icon!#P +1.00#!/month"
- TRAIT_FLAG_DESC_subtract_rider_monthly_prestige_1:0 "Rider [prestige|E]: @prestige_icon!#N -1.00#!/month"
+ TRAIT_FLAG_DESC_add_rider_monthly_prestige_1:0 "[prestige|E] вершника: @prestige_icon!#P +1.00#!/міс."
+ TRAIT_FLAG_DESC_subtract_rider_monthly_prestige_1:0 "[prestige|E] вершника: @prestige_icon!#N -1.00#!/міс."
  
  # Draconic dread loc
  # Add
@@ -197,7 +197,7 @@
 
  # Size
  # Special
- TRAIT_FLAG_DESC_add_early_growth:0 "First year [dragon_size|E] @dragon_size_icon! growth rate: #P x10#!"
+ TRAIT_FLAG_DESC_add_early_growth:0 "Швидкість зростання [Concept('dragon_size', 'розміру')|E] @dragon_size_icon! в перший рік: #P x10#!"
  # Add
  TRAIT_FLAG_DESC_add_size_modifier_1:0 "[dragon_size|E]: @dragon_size_icon!#P +1%#!"
  TRAIT_FLAG_DESC_add_size_modifier_2:0 "[dragon_size|E]: @dragon_size_icon!#P +2%#!"
