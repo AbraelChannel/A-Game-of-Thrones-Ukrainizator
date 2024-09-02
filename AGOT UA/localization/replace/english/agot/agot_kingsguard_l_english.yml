@@ -1,27 +1,27 @@
 ﻿l_english:
- kingsguard_lord_commander_flavor: "Lord Commander"
- kingsguard_lord_commander_flavors: "Lord Commander"
- kingsguard_lord_commander: "Lord Commander of the Kingsguard"
+ kingsguard_lord_commander_flavor: "Лорд-командувач"
+ kingsguard_lord_commander_flavors: "Лорд-командувач"
+ kingsguard_lord_commander: "Лорд-командувач Королівської гвардії"
  kingsguard_lord_commander_name: "$kingsguard_lord_commander$"
  kingsguard_lord_commander_tooltip: "$kingsguard_lord_commander$"
 
- queensguard_lord_commander_name:0 "Lord Commander of the Queensguard"
+ queensguard_lord_commander_name:0 "Лорд-командувач Королівської гвардії"
 
- 
+
  KINGSGUARD:1 "[CHARACTER.Custom('KingsguardName')]"
- 
- 
- Kingsguard_possesive:0 "[CHARACTER.Custom('KingsguardName')]'s"
+
+
+ Kingsguard_possesive: "Лицаря Королівської гвардії"
 
 #GUI
- kingsguard: "Kingsguard"
- Kingsguard_possesive: "Kingsguard's"
- kingsguard_1: "Kingsguard" # $KINGSGUARD$
- kingsguard_2: "Kingsguard"
- kingsguard_3: "Kingsguard"
- kingsguard_4: "Kingsguard"
- kingsguard_5: "Kingsguard"
- kingsguard_6: "Kingsguard"
+ kingsguard: "Лицар Королівської гвардії"
+ Kingsguard_possesive: "Лицаря Королівської гвардії"
+ kingsguard_1: "Лицар Королівської гвардії" # $KINGSGUARD$
+ kingsguard_2: "Лицар Королівської гвардії"
+ kingsguard_3: "Лицар Королівської гвардії"
+ kingsguard_4: "Лицар Королівської гвардії"
+ kingsguard_5: "Лицар Королівської гвардії"
+ kingsguard_6: "Лицар Королівської гвардії"
  kingsguard_1_possessive: "$Kingsguard_possesive$"
  kingsguard_2_possessive: "$Kingsguard_possesive$"
  kingsguard_3_possessive: "$Kingsguard_possesive$"
@@ -29,50 +29,50 @@
  kingsguard_5_possessive: "$Kingsguard_possesive$"
  kingsguard_6_possessive: "$Kingsguard_possesive$"
 
- KINGSGUARD_CLICK_TO_HIRE:0 "Interact with Characters \nto appoint a [ActiveCouncilTask.GetPositionName|E]"
+ KINGSGUARD_CLICK_TO_HIRE:0 "Взаємодіяти з персонажами \nщоб призначити [ActiveCouncilTask.GetPositionName|E]"
 
- KINGSGUARD_TAB_BUTTON_TEXT:0 "Your [GetPlayer.Custom('KingsguardName')]"
+ KINGSGUARD_TAB_BUTTON_TEXT:0 "Ваші лицарі гвардії"
 
  #Naming
- kingsguard_name:0 "Kingsguard"
- queensguard_name:0 "Queensguard"
+ kingsguard_name:0 "Лицар Королівської гвардії"
+ queensguard_name:0 "Лицар Королівської гвардії"
 
  # Modifiers
- kingsguard_lord_commander_modifier:0 "Liege's Lord Commander"
- kingsguard_modifier:0 "Liege's Kingsguard"
+ kingsguard_lord_commander_modifier:0 "Лорд-командувач сюзерена"
+ kingsguard_modifier:0 "Королівський гвардієць сюзерена"
 
- training_for_kingsguard:0 "Training to Join the Kingsguard"
- training_for_kingsguard_desc:0 "This character is training to join the Kingsguard."
+ training_for_kingsguard:0 "Підготовка до вступу до Королівської гвардії"
+ training_for_kingsguard_desc:0 "Цей персонаж готується вступити до Королівської гвардії."
 
- kingsguard_oathbreaker:0 "Kingsguard Oathbreaker"
- kingsguard_oathbreaker_desc:0 "This character has sullied their sacred oath and forsaken the Kingsguard."
+ kingsguard_oathbreaker:0 "Клятвозлочинець Королівської гвардії"
+ kingsguard_oathbreaker_desc:0 "Цей персонаж заплямував свою священну клятву і залишив Королівську гвардію."
 
  kingsguard_protection: "[councillor.GetModifierDescForTask('kingsguard_default_1')]"
- task_kingsguard_bodyguard_effect_desc: "[Select_CString(councillor.GetRelationOfType(GetRelation('bodyguard_target')).IsValid, councillor.GetRelationOfType(GetRelation('bodyguard_target')).GetUIName, 'Guarded dynasty member')] gets [GetModifier('kingsguard_bodyguard').GetNameWithTooltip]"
+ task_kingsguard_bodyguard_effect_desc: "[Select_CString(councillor.GetRelationOfType(GetRelation('bodyguard_target'))).IsValid, councillor.GetRelationOfType(GetRelation('bodyguard_target')). etModifier('kingsguard_bodyguard' ).GetNameWithTooltip]»"
 
- valid_kingsguard_bodyguard_court: "There are no unguarded members of your dynasty in this court."
- 
- kingsguard_bodyguard: "Bodyguard"
- kingsguard_bodyguard_desc: "This character is being guarded by a member of the Kingsguard"
+ valid_kingsguard_bodyguard_court: "При цьому дворі немає жодного незахищеного члена вашої династії."
 
- kingsguard_bodyguard_1: "Guard Dynasty Member"
+ kingsguard_bodyguard: "Охоронець"
+ kingsguard_bodyguard_desc: "Цього персонажа охороняє лицар Королівської гвардії"
+
+ kingsguard_bodyguard_1: "Захищати члена династії"
  kingsguard_bodyguard_2: "$kingsguard_bodyguard_1$"
  kingsguard_bodyguard_3: "$kingsguard_bodyguard_1$"
  kingsguard_bodyguard_4: "$kingsguard_bodyguard_1$"
  kingsguard_bodyguard_5: "$kingsguard_bodyguard_1$"
  kingsguard_bodyguard_6: "$kingsguard_bodyguard_1$"
- 
- kingsguard_lord_commander_default: "Protection"
- kingsguard_default_1: "Protection"
- kingsguard_default_2: "Protection"
- kingsguard_default_3: "Protection"
- kingsguard_default_4: "Protection"
- kingsguard_default_5: "Protection"
- kingsguard_default_6: "Protection"
 
- task_protection_modifier:1 "Kingsguard Protection"
+ kingsguard_lord_commander_default: "Забезпечення захисту"
+ kingsguard_default_1: "Забезпечення захисту"
+ kingsguard_default_2: "Забезпечення захисту"
+ kingsguard_default_3: "Забезпечення захисту"
+ kingsguard_default_4: "Забезпечення захисту"
+ kingsguard_default_5: "Забезпечення захисту"
+ kingsguard_default_6: "Забезпечення захисту"
 
- you_agot_kingsguard_can_fire:0 "Kingsguards may be fired or reassigned if certain requirements are met."
- you_dont_agot_kingsguard_can_fire:0 "A kingsguard serves for life, unless you break with that tradition."
+ task_protection_modifier:1 "Захист Королівської гвардії"
+
+ you_agot_kingsguard_can_fire:0 "Лицарі Королівської гвардії можуть бути звільнені або перепризначені, якщо будуть виконані певні вимоги."
+ you_dont_agot_kingsguard_can_fire:0 "Лицар Королівської гвардії служить довічно, якщо ви не порушите цю традицію."
  you_agot_kingsguard_fire_requirements:0 "PLACEHOLDER"
- you_dont_agot_kingsguard_fire_requirements:0 "PLACEHOLDER does not fit requirements"
+ you_dont_agot_kingsguard_fire_requirements:0 "PLACEHOLDER не має відповідних вимог"
