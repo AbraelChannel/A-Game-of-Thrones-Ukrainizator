@@ -1,23 +1,23 @@
 ﻿l_english:
- andal:0 "Andal"
- andal_prefix:0 "Andalo"
- andal_collective_noun:0 "Andals"
+ andal:0 "Андали"
+ andal_prefix:0 "Андало"
+ andal_collective_noun:0 "Андальск"
 
- crownlander:0 "Crownlander"
- crownlander_prefix:0 "Crown"
- crownlander_collective_noun:0 "Crownlanders"
+ crownlander:0 "Королівські"
+ crownlander_prefix:0 "Королівсько"
+ crownlander_collective_noun:0 "Королівськ"
 
- fingerman:0 "Finger Valeman"
- fingerman_prefix:0 "Finger"
- fingerman_collective_noun:0 "Finger Valemen"
+ fingerman:0 "Перстовіко-долинні"
+ fingerman_prefix:0 "Перстовіко"
+ fingerman_collective_noun:0 "Перстовіко-долинськ"
 
- harborman:0 "Harborman"
- harborman_prefix:0 "Harbor"
+ harborman:0 "Біло-гаваньці"
+ harborman_prefix:0 "Гаваньсько"
  harborman_collective_noun:0 "Harbormen"
 
- honeywiner:0 "Honeywiner"
- honeywiner_prefix:0 "Honeywine"
- honeywiner_collective_noun:0 "Honeywiners"
+ honeywiner:0 "Медовики"
+ honeywiner_prefix:0 "Медовико"
+ honeywiner_collective_noun:0 "Медовикськ"
 
  marcher:0 "Marcher"
  marcher_prefix:0 "March"
@@ -27,14 +27,14 @@
  moonman_prefix:0 "Upper"
  moonman_collective_noun:0 "Upper Valemen"
 
- reachman:0 "Reachman"
- reachman_prefix:0 "Reach"
- reachman_collective_noun:0 "Reachmen"
+ reachman:0 "Просторці"
+ reachman_prefix:0 "Просторо"
+ reachman_collective_noun:0 "Просторськ"
 
- riverlander:0 "Riverlander"
- riverlander_prefix:0 "Trident"
- riverlander_collective_noun:0 "Riverlanders"
- riverlander_desc:0 "Riverlanders are the men who live by the Trident."
+ riverlander:0 "Річкові"
+ riverlander_prefix:0 "Тризубцо"
+ riverlander_collective_noun:0 "Річковоземельск"
+ riverlander_desc:0 "Річкові населяють Тризуб."
 
  shieldman:0 "Shieldman"
  shieldman_prefix:0 "Shield"
@@ -168,9 +168,9 @@
  sand_dornish_prefix:0 "Sand"
  sand_dornish_collective_noun:0 "Sand Dornish"
 
- high_valyrian:0 "High Valyrian"
- high_valyrian_prefix:0 "High Valyro"
- high_valyrian_collective_noun:0 "High Valyrians"
+ high_valyrian:0 "Вищі валірійці"
+ high_valyrian_prefix:0 "Вищеваліро
+ high_valyrian_collective_noun:0 "Вище-валірійськ"
 
  westerosi_valyrian:0 "Westerosi Valyrian"
  westerosi_valyrian_prefix:0 "Valyro"
@@ -396,9 +396,9 @@
  others_prefix:0 "Ice"
  others_collective_noun:0 "Others"
 
- dragon:0 "Dragon"
- dragon_prefix:0 "Draco"
- dragon_collective_noun:0 "Dragons"
+ dragon:0 "Дракон"
+ dragon_prefix:0 "Дроконо"
+ dragon_collective_noun:0 "Драконск"
 
  ifequevron:0 "Ifequevron"
  ifequevron_prefix:0 "Wood"

@@ -4,10 +4,10 @@
  SECOND_TITLE_LINE_1:0 ""
 
  # Mega Wars
- mw_punishment:0 "Punish\n[GetPlayer.MakeScope.Var('selected_traitor').Char.GetTitledFirstNameNoTooltip]"
- mw_show_mercy:0 "Show Mercy to\n[GetPlayer.MakeScope.Var('selected_traitor').Char.GetTitledFirstNameNoTooltip]"
- mw_rebels:0 "Rebels"
- mw_loyalists:0 "Loyalists"
+ mw_punishment:0 "Покарати персонажа\n[GetPlayer.MakeScope.Var(“selected_traitor”).Char.GetTitledFirstNameNoTooltip]"
+ mw_show_mercy:0 "Проявити милосердя до персонажа\n[GetPlayer.MakeScope.Var(“selected_traitor”).Char.GetTitledFirstNameNoTooltip]"
+ mw_rebels:0 "Бунтівники"
+ mw_loyalists:0 "Лоялісти"
 
 # Dragons
- set_relation_agot_dragon:0 "Becomes your dragon"
+ set_relation_agot_dragon:0 "Стає вашим драконом"
