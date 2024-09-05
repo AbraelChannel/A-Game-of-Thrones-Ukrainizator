@@ -4,14 +4,14 @@
  SECOND_TITLE_LINE_1:0 ""
 
  # Mega Wars
- punishment:0 "Покарати персонажа\n[GetPlayer.MakeScope.Var(“selected_traitor”).Char.GetTitledFirstNameNoTooltip]"
- show_mercy:0 "Проявити милосердя до персонажа\n[GetPlayer.MakeScope.Var(“selected_traitor”).Char.GetTitledFirstNameNoTooltip]"
+ punishment:0 "Покарати персонажа\n[GetPlayer.MakeScope.Var('selected_traitor').Char.GetTitledFirstNameNoTooltip]"
+ show_mercy:0 "Проявити милосердя до персонажа\n[GetPlayer.MakeScope.Var('selected_traitor').Char.GetTitledFirstNameNoTooltip]"
 
  # Banish to Essos
- agot_banish_to_essos:0 "[Concept( “banish”, “Вигнати” )|E] в Ессос"
+ agot_banish_to_essos:0 "[Concept( 'banish', 'Вигнати' )|E] в Есос"
 
  #MyCharacterIntroduction
- AGOT_MyCharacterIntroductionNoComma_firstname:0 "[Select_CString(ROOT.Char.IsFemale, “моя”, “мій” )] [ROOT.Char.GetCouncilTitle] [ROOT.Char.GetFirstNameNicknamedNoTooltip]"
+ AGOT_MyCharacterIntroductionNoComma_firstname:0 "[Select_CString(ROOT.Char.IsFemale, 'моя', 'мій' )] [ROOT.Char.GetCouncilTitle] [ROOT.Char.GetFirstNameNicknamedNoTooltip]"
 
  agot_scream_wets_self:0 "#flatulence *обмочитися*#!"
  agot_scream_whimper:0 "*хник*"

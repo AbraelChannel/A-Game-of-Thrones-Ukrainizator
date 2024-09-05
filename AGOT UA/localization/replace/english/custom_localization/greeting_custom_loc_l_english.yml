@@ -4,7 +4,7 @@
 
  greeting_liege_positive: "[ROOT.Char.Custom2('GreetingToLiegePositive', second)]"
  greeting_liege_negative: "[ROOT.Char.Custom2('GreetingToLiegeNegative', second)]"
- greeting_liege_liked: "Приветствую, [Select_CString(second.IsFemale, 'моя', 'мій' )] [second.Custom('ComplimentAdjective')][Select_CString(second.IsFemale, 'ая', 'ий' )] [Select_CString(second.IsFemale, 'пані', 'сюзерен' )]!"
+ greeting_liege_liked: "Вітаю, [Select_CString(second.IsFemale, 'моя', 'мій' )] [second.Custom('ComplimentAdjective')][Select_CString(second.IsFemale, 'ая', 'ий' )] [Select_CString(second.IsFemale, 'пані', 'сюзерен' )]!"
  greeting_liege_dislike: "Мій сюзерен!"
  greeting_liege_fallback: "Вітаю, мій сюзерене!"
 

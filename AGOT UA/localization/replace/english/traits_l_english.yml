@@ -542,7 +542,7 @@
  trait_typhus_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] suffers from camp fever and is plagued by rashes, fever, and coughs."
  #AGOT Modified
  #trait_bubonic_plague:0 "Бубонна чума"
- trait_bubonic_plague:0 "Західна чума"
+ trait_bubonic_plague:0 "Весняна чума"
  trait_bubonic_plague_desc:0 "This character is beset by black patches of skin and multiple buboes; they are not long for this world."
  trait_bubonic_plague_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is beset by black patches of skin and multiple buboes; [ROOT.GetCharacter.GetSheHe] is not long for this world."
  trait_smallpox:0 "Віспа"
