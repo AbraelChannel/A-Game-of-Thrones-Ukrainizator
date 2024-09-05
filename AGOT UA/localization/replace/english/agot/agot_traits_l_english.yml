@@ -293,20 +293,20 @@
  trait_greyscale_1_desc:0 "Цей персонаж помітив на своєму тілі плями жорсткої мертвої шкіри, які на дотик нагадують камінь..."
  trait_greyscale_1_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] помітив на тілі [ROOT.GetCharacter.GetHerHis] плями жорсткої мертвої шкіри, схожі на камінь на дотик..."
 
- trait_greyscale:0 "Сіра Хворь"
- trait_greyscale_desc:0 "Цей персонаж страждає від сірої хворі. Потріскана, лущиться та схожа на камінь шкіра покриває більшу частину їхнього тіла."
- trait_greyscale_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] страждає від сірої хворі. Більшу частину тіла [ROOT.GetCharacter.GetHerHis] покриває потріскана, лущиться та схожа на камінь шкіра."
+ trait_greyscale:0 "Сіра Чума"
+ trait_greyscale_desc:0 "Цей персонаж страждає від сірої чуми. Потріскана, лущиться та схожа на камінь шкіра покриває більшу частину їхнього тіла."
+ trait_greyscale_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] страждає від сірої чуми. Більшу частину тіла [ROOT.GetCharacter.GetHerHis] покриває потріскана, лущиться та схожа на камінь шкіра."
 
- trait_greyscale_2.desc:0 "Цей персонаж страждає від сірої хворі. Потріскана, лущиться та схожа на камінь шкіра покриває більшу частину їхнього тіла."
- trait_greyscale_2_character.desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] страждає від сірої хворі. Більшу частину тіла [ROOT.GetCharacter.GetHerHis] покриває потріскана, лущиться та схожа на камінь шкіра."
+ trait_greyscale_2.desc:0 "Цей персонаж страждає від сірої чуми. Потріскана, лущиться та схожа на камінь шкіра покриває більшу частину їхнього тіла."
+ trait_greyscale_2_character.desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] страждає від сірої чуми. Більшу частину тіла [ROOT.GetCharacter.GetHerHis] покриває потріскана, лущиться та схожа на камінь шкіра."
 
- trait_greyscale_3:0 "Божевілля Сірої Хворі"
- trait_greyscale_3_desc:0 "Надто пізно рятувати цього персонажа. Сіра хворь поглинула його, і охопила божевіллям. Він став небезпечним для себе та всіх, хто їх оточує."
- trait_greyscale_3_character_desc:0 "Занадто пізно зберігати [ROOT.GetCharacter.GetFirstNameNoTooltip]. Сіра хворь поглинула [ROOT.GetCharacter.GetHerHim], і почалося божевілля. [ROOT.GetCharacter.GetSheHe] став небезпекою для [ROOT.GetCharacter.GetHerselfHimself] і всіх, хто оточує [ROOT.GetCharacter.GetHerHim] ."
+ trait_greyscale_3:0 "Божевілля Сірої Чуми"
+ trait_greyscale_3_desc:0 "Надто пізно рятувати цього персонажа. Сіра чума поглинула його, і охопила божевіллям. Він став небезпечним для себе та всіх, хто їх оточує."
+ trait_greyscale_3_character_desc:0 "Занадто пізно зберігати [ROOT.GetCharacter.GetFirstNameNoTooltip]. Сіра чума поглинула [ROOT.GetCharacter.GetHerHim], і почалося божевілля. [ROOT.GetCharacter.GetSheHe] став небезпекою для [ROOT.GetCharacter.GetHerselfHimself] і всіх, хто оточує [ROOT.GetCharacter.GetHerHim] ."
 
- trait_greyscale_scarred:0 "Сіра Хворь зі Шрамами"
- trait_greyscale_scarred_desc:0 "Якимось дивом поширення сірої хворі цього персонажа зупинилося. Вона все ще несе шрами, хоча це вже не є вірулентним та не передається."
- trait_greyscale_scarred_character_desc:0 "Якимось дивом поширення сірої хворі [ROOT.GetCharacter.GetFirstNameNoTooltip] зупинилося. Хоча [ROOT.GetCharacter.GetSheHe] все ще має шрами, він більше не вірулентний і не передається."
+ trait_greyscale_scarred:0 "Сіра Чума зі Шрамами"
+ trait_greyscale_scarred_desc:0 "Якимось дивом поширення сіра чума цього персонажа зупинилося. Вона все ще несе шрами, хоча це вже не є вірулентним та не передається."
+ trait_greyscale_scarred_character_desc:0 "Якимось дивом поширення сіра чума [ROOT.GetCharacter.GetFirstNameNoTooltip] зупинилося. Хоча [ROOT.GetCharacter.GetSheHe] все ще має шрами, він більше не вірулентний і не передається."
 
  trait_bloody_flux:0 "Кривавий Понос"
  trait_bloody_flux_desc:0 "Цей персонаж був уражений кривавим поносом, викликаючи у них лихоманку, внутрішні крововиливи та діарею."

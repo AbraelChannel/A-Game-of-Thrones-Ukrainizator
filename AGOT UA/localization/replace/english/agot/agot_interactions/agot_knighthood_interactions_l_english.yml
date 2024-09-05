@@ -1,8 +1,8 @@
 ﻿l_english:
- agot_offer_knighthood_interaction:0 "Надати Лицарство"
+ agot_offer_knighthood_interaction:0 "Запропонувати надати лицарство"
  agot_offer_knighthood_interaction_desc:0 "[recipient.GetFirstNameNicknamedNoTooltipRegnal] ще не є лицарем, але може ним стати. Як будь-який лицар може зробити лицаря, так і я можу посвятити їх у лицарі."
 
- offer_of_knighthood:0 "Посвята в лицарі"
+ offer_of_knighthood:0 "Запропонувати надати лицарство"
  OFFER_KNIGHTHOOD_NOTIFICATION:0 "Кажуть, що кожен лицар може зробити лицарями інших. Я помітив, що ти ще не є лицарем. Я був би радий виправити цю помилку і посвятити тебе в лицарі.."
 
  agot_offer_squirehood_interaction:0 "Навчити зброєносця"
@@ -12,11 +12,11 @@
  recipient_secondary_agot_offer_squirehood_interaction:0 "[squire|E]"
  agot_offer_squirehood_interaction_notification:0 "Навчити зброєносця"
 
- agot_offer_squire_interaction:0 "Пропозиція зброєносця"
+ agot_offer_squire_interaction:0 "Запропонувати зброєносця"
  agot_offer_squire_interaction_desc:0 "Запропонуйте [recipient.GetShortUIName] [squire|E], зробивши когось із [recipient.GetHerHis] [court|E], [agot_knight|E] обраного персонажа"
  agot_offer_squire_interaction_extra_icon:0 "$hook_extra_icon$"
 
- agot_offer_knight_education_interaction:0 "Запропонувати Лицарську опіку"
+ agot_offer_knight_education_interaction:0 "Запропонувати лицарську опіку"
  agot_offer_knight_education_interaction_desc:0 "Запропонуйте [recipient.GetShortUIName] [agot_knight|E], зробивши когось із [recipient.GetHerHis] [court|E] [squire|E] обраної дорослої людини"
  agot_oagot_offer_knight_education_interaction_extra_icon:0 "$hook_extra_icon$"
 
@@ -43,23 +43,23 @@
  EDUCATE_SQUIRE_REQUEST:0 "Для того, щоб одного дня ти став лицарем, я хочу, щоб ти став зброєносцем [secondary_actor.GetShortUIName] - найвправнішого лицаря!"
  educate_squire_interaction_notification:0 "Навчити зброєносця"
 
- offer_of_squirehood:0 "Пропозиція зброєносця"
+ offer_of_squirehood:0 "Запропонувати стати зброєносцем"
  OFFER_SQUIREHOOD_NOTIFICATION:0 "Шлях до лицарства починається зі зброєносця. Стань моїм зброєносцем, і я гарантую, що, якщо ти будеш гідним учнем, одного дня ти станеш лицарем з моєї руки!" #AGOT TODO  please rewrite this
 
- agot_remove_my_squire_interaction:0 "Прибрати Зброєносця"
+ agot_remove_my_squire_interaction:0 "Прибрати від посади зброєносця"
  agot_remove_my_squire_interaction_desc:0 "[recipient.GetFirstNameNicknamedNoTooltipRegnal] це ваш зброєносець, але кількома словами ви можете прибрати його з цієї посади."
 
- squirehood_removal:0 "Усунути з зброєносців"
+ squirehood_removal:0 "Усування від посади з зброєносця"
  REMOVAL_OF_SQUIREHOOD_NOTIFICATION:0 "В моїх очах ти більше не гідний бути зброєносцем! Тобі потрібно буде знайти іншого лицаря, щоб продовжити своє лицарське навчання!"
 
  agot_train_squire_interaction:0 "Тренувати Зброєносця"
  agot_train_squire_interaction_desc:0 "Навчити [recipient.GetFirstNameNicknamedNoTooltipRegnal] лицарським звичаям."
 
- remove_knight_interaction:0 "Прибрати Дитячого Лицаря"
+ remove_knight_interaction:0 "Прибрати лицаря-наставника"
  remove_knight_interaction_desc:0 "Прибрати [recipient.GetNamePossessive] лицаря."
  REMOVE_CHILDS_KNIGHT_INTERACTION:0 "На жаль, ця лицарська опіка більше не працює. Тому я мушу припинити її передчасно, заради блага всіх учасників."
 
- squire_training:0 "Тренувати Зброєносця"
+ squire_training:0 "Тренування зброєносця"
  KNIGHT_TRAINS_SQUIRE_NOTIFICATION:0 "Зброєносці! Знову прийшов час тренуватися у лицарських звичаях. Приготуйтеся, бо завтра ми будемо тренуватися, як ніколи раніше." #AGOT TODO  please rewrite this
 
  agot_train_squire_actor.tt:0 "Буде запропоновано вибрати тип тренінгу, який отримає [recipient.GetName]."
@@ -96,7 +96,7 @@ view_progress_very_good_ptk_tt:0 "майже готовий до лицарст�
 view_progress_knight_this_char_now_ptk_tt:0 "Цей [squire|E] має право стати [agot_knight|E], як тільки він досягне відповідного віку!"
 
 OFFER_SQUIRE:0 "Пропозиція зброєносця."
-OFFER_KNIGHT_TUTELAGE:0 "Запропонувати Лицарську опіку"
+OFFER_KNIGHT_TUTELAGE:0 "Запропонувати лицарську опіку"
 OFFER_EDUCATE_SQUIRE:0 "Навчити зброєносця"
 
 ##
