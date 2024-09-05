@@ -110,17 +110,17 @@
  agot_teach_dragonlore_increased_dragonlore_preview_tt:0 "[recipient.GetName] збільшить [recipient.GetHerHis] драконознавство на #P [TopScope.GetValue('hdk_aptitude')]#!"
  agot_teach_dragonlore_increased_dragonlore_interface_tt:0 "[recipient.GetName] збільшить [recipient.GetHerHis] драконознавство на #P [TopScope.GetValue('hdk_aptitude')]#!"
 
- agot_send_to_dragonpit:0 "ШІ відправити до Драконячої ями"
+ agot_send_to_dragonpit:0 "ШІ-Відправити до драконячої ями"
  agot_send_to_dragonpit_desc:0 "ШІ надішле [recipient.GetName] до [recipient.GetHerHis] [dragonpit|E]"
 
- agot_remove_from_dragonpit:0 "ШІ видалити з Драконячої ями"
+ agot_remove_from_dragonpit:0 "ШІ-Видалити з драконячої ями"
  agot_remove_from_dragonpit_desc:0 "ШІ видалить [recipient.GetName] з [recipient.GetHerHis] [dragonpit|E]"
 
- agot_grant_dragonpit_permission:0 "Надати доступ до Драконячої ями"
+ agot_grant_dragonpit_permission:0 "Надати доступ до драконячої ями"
  agot_grant_dragonpit_permission_desc:0 "Надайте [recipient.GetName] доступ до вашої [dragonpit|e], і всіх [dragons|e] заблокованих у ній. Це зробить [recipient.GetNameNoTooltip] an [authorized_tamer|e] цієї драконячої ями."
  agot_grant_dragonpit_permission_effect_tt:0 "[recipient.GetName] стане [authorized_tamer|e] у [dragon_pit_location.GetNameNoTier] [dragonpit|e]."
 
- agot_ban_from_dragonpit:0 "Заблокувати доступ до Драконячої ями"
+ agot_ban_from_dragonpit:0 "Заблокувати доступ до драконячої ями"
  agot_ban_from_dragonpit_desc:0 "[recipient.GetName] наразі має доступ до вашої [dragonpit|e] через ваші [laws|e] драконячої ями. Це вилучить їхній доступ до вказаної драконячої ями."
  agot_banned_from_dragonpit_permission_effect_tt:0 "[recipient.GetName] буде заборонено доступ до [dragon_pit_location.GetNameNoTier] [dragonpit|e]."
  agot_banned_from_dragonpit_interface_tt:0 "[recipient.GetName] було заборонено доступ до вашого [dragonpit|e] у [dragon_pit_location.GetNameNoTier]."
@@ -130,17 +130,17 @@
  agot_reversed_ban_from_dragonpit_interface_tt:0 "[recipient.GetNamePossessive] знято заборону на доступ до вашої [dragonpit|e]."
  agot_ban_lifted_from_dragonpit_effect_tt:0 "Заборону [recipient.GetNamePossessive] з [target.GetNameNoTier] [dragonpit|e] буде знято."
 
- agot_request_dragonpit_permission:0 "Попросити доступ до Драконячої ями"
+ agot_request_dragonpit_permission:0 "Попросити доступ до драконячої ями"
  agot_request_dragonpit_permission_desc:0 "Ви можете запросити дозвіл на доступ [recipient.GetShortUINamePossessive] [dragonpit|e]."
  agot_request_dragonpit_permission_effect_tt:0 "[actor.GetShortUIName] стане [authorized_timer|e] у [dragon_pit_location.GetNameNoTier] [dragonpit|e]."
 
- agot_dragonpit_access_gained:0 "Надано доступ до Драконячої ями"
+ agot_dragonpit_access_gained:0 "Надано доступ до драконячої ями"
  agot_dragonpit_access_gained_interface_tt:0 "[actor.GetShortUIName] зробив вас [authorized_tamer|E] [actor.GetHerHis] [dragonpit|E]!"
  agot_dragonpit_access_denied:0 "У доступі до Драконячої ями відмовлено"
  agot_dragonpit_access_denied_interface_tt:0 "[recipient.GetShortUIName] відмовив вам у доступі до [recipient.GetHerHis] [dragonpit|E]!"
  agot_request_dragonpit_permission_ai_modifier_i_am_blood_of_the_dragon:0 "Визнає важливість своїх драконів"
 
- agot_send_egg_to_pit:0 "Надіслати Яйце до Драконячої ями"
+ agot_send_egg_to_pit:0 "Надіслати Яйце до драконячої ями"
  agot_send_egg_to_pit_desc:0 "Відправте одне з ваших драконячих яєць до [dragonpit|e] для вилуплення"
 
  agot_retrieve_egg_from_pit:0 "Отримати яйце з драконячої ями"
