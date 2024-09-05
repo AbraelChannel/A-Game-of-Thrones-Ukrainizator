@@ -70,7 +70,7 @@
  EVENT_DEBUG_CHARACTER_EVENT:0 "Подія: $EVENT$ Персонаж: $NAME$ [$ID$]\n"
  SCOPE_DEBUG_FORMAT:0 "$NAME$ #weak ($TYPE|U$ - $ID$)#!"
  SCOPE_DEBUG_VALUE:0 "Значення $VALUE$"
- CHARACTER_DEFAULT_TOOLTIP:0 "[CHARACTER.GetUIName]\n[CHARACTER.PlayerName|D]\nID: [CHARACTER.GetID|V]\nІсторичний ID: [CHARACTER.GetSlowHistoryIdForDebug|V]\nДинастія: [CHARACTER.GetDynastyName|V]\nКультура: #V #L [CHARACTER.GetCulture.GetCollectiveNoun]ая#!#!\nПлодючість: [CHARACTER.GetFertility|%0V]\nЗдоров'я: [CHARACTER.GetHealth|1V]\n"
+ CHARACTER_DEFAULT_TOOLTIP:0 "[CHARACTER.GetUIName]\n[CHARACTER.PlayerName|D]\nID: [CHARACTER.GetID|V]\nІсторичний ID: [CHARACTER.GetSlowHistoryIdForDebug|V]\nДинастія: [CHARACTER.GetDynastyName|V]\nКультура: #V #L [CHARACTER.GetCulture.GetCollectiveNoun]а#!#!\nПлодючість: [CHARACTER.GetFertility|%0V]\nЗдоров'я: [CHARACTER.GetHealth|1V]\n"
  CHARACTER_DEBUG_REAL_FATHER_TOOLTIP:0 "[Select_CString( ObjectsEqual( CHARACTER.GetFather, CHARACTER.GetRealFather ), '', 'Справжній батько: ' )][Select_CString( ObjectsEqual( CHARACTER.GetFather, CHARACTER.GetRealFather ), '', CHARACTER.GetRealFather.GetUIName )][Select_CString( ObjectsEqual( CHARACTER.GetFather, CHARACTER.GetRealFather ), '', '\n' )]" # This is horribly overcomplicated just to conditionally write some text
  #AGOT Added
  CHARACTER_DEBUG_REAL_MOTHER_TOOLTIP:0 "[Select_CString( ObjectsEqual( CHARACTER.GetMother, CHARACTER.GetRealMother ), '', 'Справжня мати: ' )][Select_CString( ObjectsEqual( CHARACTER.GetMother, CHARACTER.GetRealMother ), '', CHARACTER.GetRealMother.GetUIName )][Select_CString( ObjectsEqual( CHARACTER.GetMother, CHARACTER.GetRealMother ), '', '\n' )]" # This is horribly overcomplicated just to conditionally write some text
@@ -481,7 +481,7 @@
  SCOPE_DYNASTY:0 "[dynasty|E] [ROOT.Dynasty.GetName]:"
  SCOPE_DYNASTY_HOUSE:0 "[house|E] [ROOT.House.GetName]:"
  SCOPE_FACTION:0 "[ROOT.Faction.GetName]:"
- SCOPE_CULTURE:0 "#L [ROOT.Culture.GetCollectiveNoun]ая#! культура:"
+ SCOPE_CULTURE:0 "#L [ROOT.Culture.GetCollectiveNoun]а#! культура:"
  SCOPE_ARMY:0 "[ROOT.Army.GetName]:"
  SCOPE_HOLY_ORDER:0 "[ROOT.HolyOrder.GetName]:"
  SCOPE_ACTIVE_COUNTIL_TASK:0 "[ROOT.CouncilTask.GetName]:"
@@ -579,8 +579,8 @@
  RELATION_PRISONER_AWAY:0 "В'язень"
  RELATION_COURT_POSITION:0 "[COURT_POSITION.GetName] [COURT_POSITION.GetPositionType.GetTextIcon]"
  RELATION_COMMANDER:0 "[commander|E]"
- RELATION_LIEGE_COUNCILLOR:0 "[CHARACTER.GetCouncilTitle] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, '', 'персонажу ' )][TARGET_CHARACTER.GetNamePossessiveOrMy][Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'його персонажа', '' )]"
- RELATION_LIEGE_COURT_POSITION:0 "[COURT_POSITION.GetName] [COURT_POSITION.GetPositionType.GetTextIcon] [Select_CString(CHARACTER.IsLocalPlayer, '', 'персонажу ' )][CHARACTER.GetNamePossessiveOrMy][Select_CString(CHARACTER.IsLocalPlayer, 'його персонажа', '' )]"
+ RELATION_LIEGE_COUNCILLOR:0 "[CHARACTER.GetCouncilTitle] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, '', 'персонажа ' )][TARGET_CHARACTER.GetNamePossessiveOrMy][Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'його персонажа', '' )]"
+ RELATION_LIEGE_COURT_POSITION:0 "[COURT_POSITION.GetName] [COURT_POSITION.GetPositionType.GetTextIcon] [Select_CString(CHARACTER.IsLocalPlayer, '', 'персонажа ' )][CHARACTER.GetNamePossessiveOrMy][Select_CString(CHARACTER.IsLocalPlayer, 'його персонажа', '' )]"
  MY_VALUE_COLON:0 "#T $KEY$: $VALUE|V$#!"
  CHARACTER_VALUE_COLON:0 "#T $KEY$: $VALUE|V$#!"
  SCREENSHOT_TAKEN:0 "Скріншот зроблено!"
