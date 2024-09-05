@@ -579,8 +579,8 @@
  RELATION_PRISONER_AWAY:0 "В'язень"
  RELATION_COURT_POSITION:0 "[COURT_POSITION.GetName] [COURT_POSITION.GetPositionType.GetTextIcon]"
  RELATION_COMMANDER:0 "[commander|E]"
- RELATION_LIEGE_COUNCILLOR:0 "[CHARACTER.GetCouncilTitle] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, '', 'персонажу' ]][TARGET_CHARACTER.GetNamePossessiveOrMy][Select_CString(TARGET_CHARAC)
- RELATION_LIEGE_COURT_POSITION:0 "[COURT_POSITION.GetName] [COURT_POSITION.GetPositionType.GetTextIcon] [Select_CString(CHARACTER.IsLocalPlayer, '', 'персонажу')][CHARACTER.GetNamePossessiveOr , '' )]"
+ RELATION_LIEGE_COUNCILLOR:0 "[CHARACTER.GetCouncilTitle] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, '', 'персонажу ' )][TARGET_CHARACTER.GetNamePossessiveOrMy][Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'його персонажа', '' )]"
+ RELATION_LIEGE_COURT_POSITION:0 "[COURT_POSITION.GetName] [COURT_POSITION.GetPositionType.GetTextIcon] [Select_CString(CHARACTER.IsLocalPlayer, '', 'персонажу ' )][CHARACTER.GetNamePossessiveOrMy][Select_CString(CHARACTER.IsLocalPlayer, 'його персонажа', '' )]"
  MY_VALUE_COLON:0 "#T $KEY$: $VALUE|V$#!"
  CHARACTER_VALUE_COLON:0 "#T $KEY$: $VALUE|V$#!"
  SCREENSHOT_TAKEN:0 "Скріншот зроблено!"
