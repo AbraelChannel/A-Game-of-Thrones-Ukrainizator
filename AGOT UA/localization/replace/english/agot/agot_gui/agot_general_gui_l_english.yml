@@ -203,4 +203,11 @@
  dragon_neck_length_de_gui:0 "Довжина шиї"
  dragon_tail_length_de_gui_tt:0 "Довжина хвоста"
  dragon_tail_length_de_gui:0 "Довжина хвоста"
+ dragon_horn_template_shape_value_de_gui_tt:0 "Значення форми рогу"
+ dragon_horn_template_shape_value_de_gui:0 "Значення форми рогу"
+ dragon_horn_template_shape_template_de_gui_tt:0 "Форма рогу"
+ dragon_horn_template_shape_template_de_gui:0 "Форма рогу"
+ dragon_snout_profile_de_gui:0 "Профіль морди"
+ dragon_snoute_profile_de_gui_tt:0 "Профіль морди"
+
  CV_CUSTOMIZE_AGOT_DRAGON:0 "#P #I Click to open the Dragon Customizer#!#!"
