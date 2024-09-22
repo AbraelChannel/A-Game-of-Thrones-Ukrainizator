@@ -34,7 +34,7 @@
  GO_TO_RIGHT_CLICK:0 "Клацніть правою кнопкою миші, щоб перейти"
  VIEW_CLICK:0 "Клацніть, щоб подивитись"
  COA_LINE_OF_SUCCESSION:0 "[line_of_succession|E]:\n"
- COA_TOOLTIP_HOLDER:1 "[GetPlayer.Custom2_Title( 'TitleRelationToMe', TITLE.Self )][holder|E] титулу: [TITLE.GetLeaseInfo] [TITLE.GetHolder.GetFullNameNicknamed]\n[SelectLocalization(DataModelHasItemsCO SION', ' ')][TITLE.GetLineOfSuccessionDesc]\n"
+ COA_TOOLTIP_HOLDER:1 "[GetPlayer.Custom2_Title( 'TitleRelationToMe', TITLE.Self )][holder|E] титулу: [TITLE.GetLeaseInfo] [TITLE.GetHolder.GetFullNameNicknamed]\n[SelectLocalization(DataModelHasItems(TITLE.GetLineOfSuccession), 'COA_LINE_OF_SUCCESSION', '')][TITLE.GetLineOfSuccessionDesc]\n"
  TITLE_LEASED_OUT_TO:0 "[lessee|E]: [CHARACTER.GetUIName]\n"
  COA_TOOLTIP_NO_HOLDER:0 "Не створено\n"
  COA_TOOLTIP_CLICK_INFO:0 "#I [SelectLocalization(TITLE.IsShownInTitleView, 'GO_TO_CLICK', 'VIEW_CLICK')]\n$GO_TO_RIGHT_CLICK$#!"
