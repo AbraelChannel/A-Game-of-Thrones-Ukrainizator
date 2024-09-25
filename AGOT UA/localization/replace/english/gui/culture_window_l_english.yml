@@ -197,7 +197,7 @@
  REFORMATION_CONFIRM_CANCEL_TITLE:0 "Скасувати реформацію"
  REFORMATION_CONFIRM_CANCEL_BODY:0 "Ви бажаєте скасувати поточну реформацію?"
  REFORMATION_CONFIRM_CANCEL_ACCEPT:0 "Прийняти"
- CANCEL_REFORMATION_NOT_CULTURE_HEAD:0 "@warning_icon! #X Вы не [culture_head|E]#!"
+ CANCEL_REFORMATION_NOT_CULTURE_HEAD:0 "@warning_icon! #X Ви не [culture_head|E]#!"
  REFORMATION_TOTAL_TIME:0 "@time_icon! $TIME$"
  REFORMATION_MONTHLY_PROGRESS:0 "#S Щомісячний прогрес#!"
  CULTURE_CLICK_TO_REPLACE:0 "#I Клацніть, щоб замінити#!"
