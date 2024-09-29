@@ -176,14 +176,6 @@
  trait_fool_desc:0 "Цей персонаж служить дурнем лорда."
  trait_fool_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] служить дурнем лорда."
 
- trait_honorable:0 "Почесний"
- trait_honorable_desc:0 "Високо цінуючи свою мораль, цей персонаж намагається чинити правильно, незважаючи на наслідки."
- trait_honorable_character_desc:0 "Високо поважаючи [ROOT.GetCharacter.GetHerHis] мораль, [ROOT.GetCharacter.GetFirstNameNoTooltip] намагається робити те, що правильно, незважаючи на наслідки."
-
- trait_ruthless:0 "Безжальний"
- trait_ruthless_desc:0 "Незалежно від того, хороші вони чи погані, цей персонаж використовуватиме будь-які засоби, необхідні для досягнення своїх цілей."
- trait_ruthless_character_desc:0 "Незалежно від того, хороші вони чи погані, [ROOT.GetCharacter.GetFirstNameNoTooltip] використовуватиме будь-які засоби, необхідні для досягнення своїх цілей."
-
  trait_authoritative:0 "Авторитетний"
  trait_authoritative_desc:0 "Голос цього персонажа має вагу, викликаючи страх у багатьох і водночас надихаючи інших."
  trait_authoritative_character_desc:0 "Голос [ROOT.GetCharacter.GetFirstNameNoTooltip] має вагу, викликаючи страх у багатьох і надихаючи інших."

@@ -20,6 +20,9 @@
  blow_dragon_horn_interaction_desc:0 "[recipient.GetNamePossessiveNoTooltip] зв'язок ослаб. Ти спробуєш знову зміцнити цей зв'язок за допомогою свого драконячого рогу."
  must_equip_dragon_horn:0 "Має оснащений ріг дракона"
  binding_is_unstable:0 "Сила зв'язку з цим драконом знизилася"
+ visit_dragonpit_with_child_interaction:0 "Відвідайте драконячу яму разом"
+ visit_dragonpit_with_child_interaction_desc:0 "Ви відвідуєте драконячу яму з [recipient.GetNameNoTooltip]"
+ visit_dragonpit_interaction_tt:0 "[recipient.GetName] може утворити зв'язок або приручити дракона у вашій драконячій ямі."
 
  dragon_beyond_the_wall:0 "Дракони не забредуть за Стіну"
 
@@ -63,6 +66,7 @@
  SCHEME_BOND_VALYRIAN_BLOOD:0 "Драконяча кров: $VALUE|+0=-+$"
  SCHEME_BOND_DYNASTY_LEGACY:0 "[GetDynastyPerk( 'dragonrider_dynasty_legacy_2' ).GetName]: $VALUE|+0=-+$"
  SCHEME_EX_DRAGONRIDER:0 "Ви вже зв'язалися з одним [dragon|E]: $VALUE|+0=-+$"
+ SCHEME_BOND_DESTINED_RIDER:0 "Ви відчуваєте доленосний зв'язок: $VALUE|+0=-+$"
  bonded_with_me:0 "Пов'язані зі мною"
  failed_to_bond_with_me:0 "Не зміг утворити зв'язок зі мною"
 
