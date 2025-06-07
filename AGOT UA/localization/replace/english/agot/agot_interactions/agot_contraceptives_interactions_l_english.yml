@@ -1,6 +1,0 @@
-﻿l_english:
- #birth control interactions
- force_contraceptives_interaction:0 "Примусова контрацепція"
- force_contraceptives_interaction_desc:0 "Попросити [recipient.GetFirstNameNoTooltip] приймати контрацептиви"
- remove_contraceptives_interaction:0 "Зупинити контрацепцію"
- remove_contraceptives_interaction_desc:0 "Попросити [recipient.GetFirstNameNoTooltip] припинити приймати контрацептиви"

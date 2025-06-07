@@ -1,5 +1,0 @@
-﻿l_english:
- #septon
- take_septon_vows_interaction_desc:0 "Попросіть [recipient.GetShortUINameNoTooltip] скласти обітниці і приєднатися до духовенства"
- take_septon_vows_decline_summary:0 "Якщо [recipient.GetShortUINameNoTooltip] відмовиться [recipient.GetSheHe] залишиться у вашому [court|E]"
- REQUEST_SEPTON_VOWS_NOTIFICATION_TEXT:0 "Вас просять залишити посаду при дворі і скласти присягу."
